@@ -1,0 +1,3395 @@
+[
+    {
+        "M.P": "2",
+        "nombre": "LOZA LUCRECIA SELVA",
+        "domicilio_laboral": "Maipu 1054",
+        "telefono": "383-4269454/383-44424118",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes- Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "4",
+        "nombre": "URQUIZA NELLY",
+        "domicilio_laboral": "Chacabuco 166",
+        "telefono": "383-45994427",
+        "orientacion_clinica": "Psicoanalitica y social",
+        "domicilio": "Adolescentes-Adultos- 3EDAD",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "5",
+        "nombre": "QUIROGA MANUEL EDGARDO",
+        "domicilio_laboral": "9 De Julio 788",
+        "telefono": "383-4855370/383-4349689",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "8",
+        "nombre": "IBAÑEZ MARIA ISABEL",
+        "domicilio_laboral": "Pedro de Maidana 1695",
+        "telefono": "383-4594285",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "10",
+        "nombre": "POSCH MARIA ELSA",
+        "domicilio_laboral": "Prado 79",
+        "telefono": "383-4464918",
+        "orientacion_clinica": "Psicoanalisis - Psicoterapia",
+        "domicilio": "Adolescentes - Adultos- 3° edad / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "11",
+        "nombre": "BUDEGUER, LUCRECIA",
+        "domicilio_laboral": "Calle Laguna Blanca B° La Estancita",
+        "telefono": "383-4682196",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes-Adultos-3 edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "13",
+        "nombre": "MARTINEZ CARMEN INES",
+        "domicilio_laboral": "San Martín 153",
+        "telefono": "83-4431851/383-4259278",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes - Adultos- 3° edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "15",
+        "nombre": "JOFRE MYLDRE MARINA",
+        "domicilio_laboral": "Av.Belgrano 552",
+        "telefono": "383-4551280",
+        "orientacion_clinica": "Individual",
+        "domicilio": "Adolescentes- Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "21",
+        "nombre": "CAMILLUCCI LAURA DEL CARMEN",
+        "domicilio_laboral": "Pedro Goyena 128",
+        "telefono": "383-4635959",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes - Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "22",
+        "nombre": "CACERES, ESTELA",
+        "domicilio_laboral": "PODER JUDICIAL/PERITO",
+        "telefono": "383-4697529",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "23",
+        "nombre": "ESTEINOU MARTA SUSANA DEL V",
+        "domicilio_laboral": "Pje.Arizaga 279",
+        "telefono": "383-4764632",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "31",
+        "nombre": "LEIVA TERESITA DEL VALLE",
+        "domicilio_laboral": "Esquiú 887",
+        "telefono": "383-4681235",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes -Adultos- 3 edad / Pareja-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "34",
+        "nombre": "CERDA CARMEN SILVIA",
+        "domicilio_laboral": "Tucuman 757",
+        "telefono": "383-4424033/383-4343235",
+        "orientacion_clinica": "Psicoanalisis-cognitiva conductual",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "36",
+        "nombre": "NORIEGA LUISA LEONOR",
+        "domicilio_laboral": "Esquiu 887",
+        "telefono": "383-4930640",
+        "orientacion_clinica": "Psicoanalisis lacaniano",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "37",
+        "nombre": "PERNASETTI SARA ERCILIA",
+        "domicilio_laboral": "Prado 79",
+        "telefono": "383-4682582",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "39",
+        "nombre": "GARCIA MARIA S",
+        "domicilio_laboral": "B° 240 V.V. casa41",
+        "telefono": "383-4784803",
+        "orientacion_clinica": "Clinica",
+        "domicilio": "Niños- Adolescentes- Adultos- 3Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "40",
+        "nombre": "AVALOS VICTOR MANUEL",
+        "domicilio_laboral": "Mota botello 550",
+        "telefono": "383-4538671",
+        "orientacion_clinica": "Orientacion existencial",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "41",
+        "nombre": "SINCHES NORMA ETELVINA",
+        "domicilio_laboral": "Maipu 385",
+        "telefono": "383-4946701",
+        "orientacion_clinica": "Psicoanalisis Freudiana- Cognitivo Conductual",
+        "domicilio": "Adolescentes-Adultos-3ª Edad / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "42",
+        "nombre": "CHERBI PEDRO A.",
+        "domicilio_laboral": "UNIVERSIDAD/MINISTERIO DE SALUD",
+        "telefono": "383-4656080",
+        "orientacion_clinica": "Psicoterapia",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "45",
+        "nombre": "MACCARONE VICTOR H",
+        "domicilio_laboral": "HOSPITAL VILLA DOLORES",
+        "telefono": "383-4912414",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "46",
+        "nombre": "VILLAGRA ANA RUTH",
+        "domicilio_laboral": "Av. Belgrano 151",
+        "telefono": "383-4328615",
+        "orientacion_clinica": "",
+        "domicilio": "Adultos- 3° Edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "49",
+        "nombre": "FUENZALIDA DANIEL ORLANDO",
+        "domicilio_laboral": "Esquiú 496 1°piso",
+        "telefono": "383-4592396",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos/ Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "52",
+        "nombre": "GOMEZ MARIA TERESITA",
+        "domicilio_laboral": "Chacabuco 272",
+        "telefono": "383-4456433/ 383-4400063",
+        "orientacion_clinica": "Psicoanalisis-Cognitiva-Sistemica",
+        "domicilio": "Niños-Adolescentes -Adultos-3ª Edad/ Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "53",
+        "nombre": "SIGNORILE MARIA C",
+        "domicilio_laboral": "Salta 436",
+        "telefono": "383-4704946",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes - Adultos- 3° edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "57",
+        "nombre": "PIANETTI RICARDO GUSTAVO",
+        "domicilio_laboral": "Av Recalde y Los Fundadores",
+        "telefono": "383-4560147",
+        "orientacion_clinica": "",
+        "domicilio": "Adultos-3ª Edad / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "58",
+        "nombre": "RODRIGUEZ BRIESCHKE CARMEN",
+        "domicilio_laboral": "Espacio PSI/ MINISTERIO DE SALUD",
+        "telefono": "383-4560148",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "59",
+        "nombre": "TOMASSI SILVIA ISABEL",
+        "domicilio_laboral": "Los Regionales 2159",
+        "telefono": "383-4209489",
+        "orientacion_clinica": "Gestalt-Cognitiva- Conductual",
+        "domicilio": "Adolescentes-Adultos-3°edad/ Individual-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "61",
+        "nombre": "ESQUENAZI ESTHER JUDITH",
+        "domicilio_laboral": "Samuel Molina 929",
+        "telefono": "383-4683650",
+        "orientacion_clinica": "Gestaltica- Terapia Psicodramatica",
+        "domicilio": "Niños-Adolescentes - Adultos- 3 Edad / Individual-Familia-Pareja-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "62",
+        "nombre": "VAZQUEZ MARIELA",
+        "domicilio_laboral": "MINISTERIO DE SALUD",
+        "telefono": "383-4217035",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "63",
+        "nombre": "CUELLO, MARIA K",
+        "domicilio_laboral": "Av. Colon 803 / Poder Judicial- FORENSE",
+        "telefono": "383-4543960",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos / Pareja",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "64",
+        "nombre": "TROMBETTA ADRIANA SILVIA",
+        "domicilio_laboral": "Los Fundadores y Av.Recalde",
+        "telefono": "383-4442723",
+        "orientacion_clinica": "Cognitiva Integrativa",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "67",
+        "nombre": "BARRIONUEVO MARA ELIZABETH",
+        "domicilio_laboral": "Sanatorio Junin 369/Sanatorio Privado -Sarmiento esq. prado",
+        "telefono": "383-4457444",
+        "orientacion_clinica": "Psicoanalisis-Cognitiva",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "71",
+        "nombre": "AVILA DELGADO ADOLFO",
+        "domicilio_laboral": "Sanatorio del Sol-Andalgala",
+        "telefono": "383-4612457",
+        "orientacion_clinica": "Psicoanalisis- sistemica",
+        "domicilio": "Niños-Adolesc.-Adultos-3ª Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "72",
+        "nombre": "PEREZ ENCARNACION",
+        "domicilio_laboral": "UNIVERSIDAD",
+        "telefono": "383-4641091",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "73",
+        "nombre": "SALADO MARIA DE LAS MERCEDES",
+        "domicilio_laboral": "Peru 449",
+        "telefono": "383-4385867",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes- Adultos / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "74",
+        "nombre": "JEREZ BRUNO DARIO",
+        "domicilio_laboral": "9 De Julio 486",
+        "telefono": "383-4524436",
+        "orientacion_clinica": "Psicoanalisis -juridica-laboral",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 EDAD",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "75",
+        "nombre": "FALCON, ELIZABETH",
+        "domicilio_laboral": "Juzgado de 6° circunscripcion",
+        "telefono": "3832-464337/3832-424455",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "77",
+        "nombre": "ROMERO MARIA ELENA DE JESUS",
+        "domicilio_laboral": "Esquiu 887",
+        "telefono": "383-4593331",
+        "orientacion_clinica": "Psicoanalisis lacaniano",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "78",
+        "nombre": "ROJAS CARLOS",
+        "domicilio_laboral": "Sanatorio Francés Gral. Paz 140 / Poder Judicial /  IES - BELÉN",
+        "telefono": "3835-463300/3835-528801",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos - Adolescentes / Individual - Parejas",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "81",
+        "nombre": "CAÑETE, IRENE M",
+        "domicilio_laboral": "POLICIA DE LA PROVINCIA",
+        "telefono": "383-4232415",
+        "orientacion_clinica": "",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "84",
+        "nombre": "GALINDEZ MARIA PIA",
+        "domicilio_laboral": "Pedro Goyena 222",
+        "telefono": "383-4557133",
+        "orientacion_clinica": "cognitivo-conductual",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "86",
+        "nombre": "MAIONE FANNY LIA",
+        "domicilio_laboral": "Velez Sarfield s/n-Sta Rosa Valle Viejo",
+        "telefono": "383-4785710",
+        "orientacion_clinica": "Psicoterapia Analitica",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "87",
+        "nombre": "HEE ESTELA LILIANA",
+        "domicilio_laboral": "Prado 755 local 2",
+        "telefono": "383-4233489",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos- 3° edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "90",
+        "nombre": "AGÜERO ALCARÁS LORENA GISELA",
+        "domicilio_laboral": "Caseros 24",
+        "telefono": "383-4780031",
+        "orientacion_clinica": "Neuropsicología-Terapia 3° OLA- Cognitivo Conductual",
+        "domicilio": "Niños - Adolescentes - Adultos - 3° edad /Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "92",
+        "nombre": "WALTHER GRACIELA",
+        "domicilio_laboral": "Mate de Luna 135",
+        "telefono": "383-4657105",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños- Adolescentes- Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "93",
+        "nombre": "SANCHEZ NILDA ROSANA",
+        "domicilio_laboral": "San Martin 318-Santa Maria",
+        "telefono": "381-5519420",
+        "orientacion_clinica": "Psicoterapia breve-Cognitivo Conductual-Sistemica",
+        "domicilio": "Niños- Adolescentes - Adultos- 3 edad - Discapacidad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "97",
+        "nombre": "VERGARA CLAUDIA DEL VALLE",
+        "domicilio_laboral": "Vicario 546",
+        "telefono": "383-4533550",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes - Adultos- 3° edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "98",
+        "nombre": "BERRONDO ADRIANA MABEL",
+        "domicilio_laboral": "9 de Julio 814",
+        "telefono": "383-4403246",
+        "orientacion_clinica": "Cognitivo- conductual",
+        "domicilio": "Adultos - 3° Edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "99",
+        "nombre": "ROBERT CLARISA",
+        "domicilio_laboral": "Juan de Sosa y Leon 1043",
+        "telefono": "383-4591928",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "100",
+        "nombre": "MEDINA PALACIO MARIA",
+        "domicilio_laboral": "Poder judicial- santa maria",
+        "telefono": "3838-421964/381-6677079",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "101",
+        "nombre": "LANZILLOTTI SILVIA ALEJANDRA",
+        "domicilio_laboral": "Nuñez del Prado s/n-Andalgala",
+        "telefono": "3835-697243",
+        "orientacion_clinica": "Psicoanalitica",
+        "domicilio": "Adultos- 3 Edad / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "103",
+        "nombre": "BOFFO CLAUDIA GRACIELA",
+        "domicilio_laboral": "Av.Guemes 580",
+        "telefono": "383-4693162",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "104",
+        "nombre": "TULA ALICIA ALEJANDRA",
+        "domicilio_laboral": "Pje Rafael Castillo 420",
+        "telefono": "383-4232116",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Adolescentes -Adultos- 3 edad / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "105",
+        "nombre": "DALLA LASTA CAMPOS ANA CAROLINA",
+        "domicilio_laboral": "CAMDALL Rivadavia 42/Ministerio de Salud",
+        "telefono": "383-4528180",
+        "orientacion_clinica": "ACT (Terapia Contextual)",
+        "domicilio": "Adolescentes - Adultos / Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "106",
+        "nombre": "PAOLINI ADRIANA DE LOS ANGELES",
+        "domicilio_laboral": "Bernabe Correa 552",
+        "telefono": "383-4280321",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Adolescentes-Adultos-3° Edad / Individual-Pareja",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "107",
+        "nombre": "BUDNIK, GRACIELA",
+        "domicilio_laboral": "Av. Camino de la Virgen esq.Ing. Gonzalez",
+        "telefono": "383-4317670",
+        "orientacion_clinica": "",
+        "domicilio": "Niños- Adolescentes- Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "110",
+        "nombre": "BAUDRACCO MARIEL RITA DE LOURDES",
+        "domicilio_laboral": "B°Achachay calle Las Tuscas esq. Madueño",
+        "telefono": "383-4298345",
+        "orientacion_clinica": "",
+        "domicilio": "Niños- Adolescentes- Adultos- 3° Edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "113",
+        "nombre": "GUZMAN MARIA DE LOS ANGELES",
+        "domicilio_laboral": "KUNTUR 422",
+        "telefono": "383-4544766",
+        "orientacion_clinica": "Orientacion analitica",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "114",
+        "nombre": "JIMENEZ RICARDO ANTONIO",
+        "domicilio_laboral": "Los Fundadores y Av.Recalde",
+        "telefono": "383-4401202",
+        "orientacion_clinica": "Psicoanálisis Lacaniano",
+        "domicilio": "Adolescentes-Adultos / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "115",
+        "nombre": "GONZALEZ ISABEL MERCEDES",
+        "domicilio_laboral": "San Martin 685",
+        "telefono": "383-4690475",
+        "orientacion_clinica": "cognitivo-conductual-sistematico",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "117",
+        "nombre": "OLEA MARIA EUGENIA",
+        "domicilio_laboral": "Vicario Segura 971",
+        "telefono": "383-4690840",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "118",
+        "nombre": "BOGOMOLY, JUDITH",
+        "domicilio_laboral": "Hilarion Furque 377 / Ministerio de Salud",
+        "telefono": "383-4353649",
+        "orientacion_clinica": "Gestáltica",
+        "domicilio": "Adolescentes- Adultos / Individual-Pareja-Grupos-Vinculares",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "120",
+        "nombre": "MONASTERIO FIGUEROA",
+        "domicilio_laboral": "PODER JUDICIAL EUIPO FORENSE/Republica 476 2° dpto B",
+        "telefono": "383-4309625",
+        "orientacion_clinica": "Cognitiva Gerontologica",
+        "domicilio": "Adultos- 3 Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "121",
+        "nombre": "ALVAREZ MARIA CAROLINA",
+        "domicilio_laboral": "B° Parque Las Grutas oeste - Luis de Medina 32",
+        "telefono": "383-4351972",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos / Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "122",
+        "nombre": "RAMIREZ ISABEL ALICIA",
+        "domicilio_laboral": "B° Libertad casa 47-Tinogasta",
+        "telefono": "3837-473359",
+        "orientacion_clinica": "cognitivo conductual",
+        "domicilio": "Niños - Adolescentes - Adultos- 3° edad / Individual-Pareja",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "124",
+        "nombre": "AHUMADA DIANA CELIA",
+        "domicilio_laboral": "Republica 863",
+        "telefono": "383-4540157",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes- Adultos / Individual-Pareja-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "125",
+        "nombre": "OVEJERO ZULLY JAQUELIN",
+        "domicilio_laboral": "Maestro Quiroga 122",
+        "telefono": "383-4591742",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad / Individual-Pareja-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "127",
+        "nombre": "ACOSTA MARCELA EMILIA GILDA",
+        "domicilio_laboral": "B° La Viñita c/ N° B - Belen",
+        "telefono": "3835-464014/3835-417466",
+        "orientacion_clinica": "Individual-Pareja-Familia",
+        "domicilio": "Niños- Adolescentes - Adultos- 3 edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "128",
+        "nombre": "MONROY VIVIANA DEL CARMEN",
+        "domicilio_laboral": "Junin 296 ESPACIO PSI",
+        "telefono": "383-4592400",
+        "orientacion_clinica": "",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "130",
+        "nombre": "DE LA BARRERA MARIA SOLEDAD",
+        "domicilio_laboral": "Asistencia a la Victima - Poder Judicial",
+        "telefono": "383-4546950",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "131",
+        "nombre": "LEGNAME SUSANA",
+        "domicilio_laboral": "PERU 145",
+        "telefono": "383-4382105-383-4429575",
+        "orientacion_clinica": "Psicoanalisis-Neurociencia",
+        "domicilio": "Adultos- 3° Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "132",
+        "nombre": "PIHUALA ROXANA",
+        "domicilio_laboral": "Saujil-Poman",
+        "telefono": "3835-526239",
+        "orientacion_clinica": "",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "133",
+        "nombre": "GANDINI VIVIANA JUDITH",
+        "domicilio_laboral": "Tucuman 338",
+        "telefono": "383-4330060",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "135",
+        "nombre": "GARAY BUSTO MONICA",
+        "domicilio_laboral": "Direccion Provincial Rendimiento Deportivo",
+        "telefono": "383-4540773",
+        "orientacion_clinica": "Psicoanalisis- Vocacional",
+        "domicilio": "Adolescentes-Adultos-3 Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "136",
+        "nombre": "CHAILE MONICA LUCIA",
+        "domicilio_laboral": "Centro de Rehabilitacion",
+        "telefono": "383-4669136",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3 Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "137",
+        "nombre": "BELMONTE FABIANA JUDITH",
+        "domicilio_laboral": "Vicario Segura 546",
+        "telefono": "383-4655735",
+        "orientacion_clinica": "",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "138",
+        "nombre": "TORRES GUAJARDO SANDRA MONICA",
+        "domicilio_laboral": "Ruta 3 s/n-Tinogasta",
+        "telefono": "3837-691805",
+        "orientacion_clinica": "Psicoterapia Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad / Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "140",
+        "nombre": "SALERNO NATALIA",
+        "domicilio_laboral": "Pje s/ nombre esquina Padre Segura-San Isidro",
+        "telefono": "383-4610017",
+        "orientacion_clinica": "sistematica-Integrativa-Orientacion Vocacional",
+        "domicilio": "Adolescentes-Adultos-3° Edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "142",
+        "nombre": "GUZMAN NATALIA INES",
+        "domicilio_laboral": "Dr.Sabagh y Dr.Castillo-Recreo",
+        "telefono": "3832-427427",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Niños - Adolescentes- Adultos-3edad / Individual-Preja-Famila-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "143",
+        "nombre": "MUÑOZ MARIA LAURA",
+        "domicilio_laboral": "San Martin 359-Santa Maria",
+        "telefono": "381- 6476985",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "144",
+        "nombre": "CORRADERA JESICA I.",
+        "domicilio_laboral": "MINISTERIO DE SALUD",
+        "telefono": "383-4543454",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "146",
+        "nombre": "RIVERA DENISE VANINA",
+        "domicilio_laboral": "Sarmiento 869 local1",
+        "telefono": "383-4656627",
+        "orientacion_clinica": "Sistematica, gestalt",
+        "domicilio": "Adolescentes - Adultos- 3° edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "147",
+        "nombre": "GUZMAN MARIA P",
+        "domicilio_laboral": "HOSPITAL SAN JUAN B.",
+        "telefono": "383-4504533",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "148",
+        "nombre": "LEIVA MARIA SOLEDAD",
+        "domicilio_laboral": "Chacabuco 284 PB",
+        "telefono": "383-4524736",
+        "orientacion_clinica": "cognitivo-conductual",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "149",
+        "nombre": "SUERO CECILIA",
+        "domicilio_laboral": "Hospital Luis Alberto vargas- Santa maria",
+        "telefono": "3838-422616",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "151",
+        "nombre": "AVELLANEDA, SONIA",
+        "domicilio_laboral": "PODER JUDICIAL",
+        "telefono": "383-4546701",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "152",
+        "nombre": "ROSSAROLI ALEJANDRA CAROLINA",
+        "domicilio_laboral": "Mate de Luna 842",
+        "telefono": "383-4758597",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual- Pareja-Familia-grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "153",
+        "nombre": "BERRONDO RICARDO DANIEL",
+        "domicilio_laboral": "9 de Julio 814",
+        "telefono": "351-5643724",
+        "orientacion_clinica": "Terapia Cognitiva Comportamental",
+        "domicilio": "Adultos/Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "155",
+        "nombre": "SALCEDO SONIA",
+        "domicilio_laboral": "Ministerio de Salud mental y adicciones",
+        "telefono": "383-4428122",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "156",
+        "nombre": "GREGORIO MARIA CANDELA",
+        "domicilio_laboral": "Vicario Segura 490 2\"A\"",
+        "telefono": "383-4529769",
+        "orientacion_clinica": "Gestalt- cognitivo conductual- Psicodrama",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Pareja-Grupo",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "157",
+        "nombre": "RODRIGUEZ LILIANA",
+        "domicilio_laboral": "Chacabuco 850 cons. 4/ Direccion de Derechos Humanos-Asistencia a la Victima",
+        "telefono": "383-4604795",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "158",
+        "nombre": "QUIROGA LAURA FLORENCIA",
+        "domicilio_laboral": "Valentin Berrondo 557",
+        "telefono": "383-4680728",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños- Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "161",
+        "nombre": "GUTIEREZ NATALIA",
+        "domicilio_laboral": "Rojas 227",
+        "telefono": "383-4229277",
+        "orientacion_clinica": "Individual",
+        "domicilio": "Niños-Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "162",
+        "nombre": "MORENO FIGUEROA MIRIAN",
+        "domicilio_laboral": "República 476- 2 Piso- dpto B",
+        "telefono": "383-4354333",
+        "orientacion_clinica": "Cognitiva Gerontologica",
+        "domicilio": "Adultos- 3 edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "163",
+        "nombre": "WAINSTEIN MONICA",
+        "domicilio_laboral": "Poder Judicial",
+        "telefono": "383-4526222",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "165",
+        "nombre": "GERVAN NATALIA INES",
+        "domicilio_laboral": "9 de Julio 627 / CAPS Farias Taire",
+        "telefono": "383-4309699",
+        "orientacion_clinica": "Psicoanalítica-Sistémica",
+        "domicilio": "Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "166",
+        "nombre": "DERRACHE DARIO",
+        "domicilio_laboral": "Chacabuco 684",
+        "telefono": "383-4768621",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños - Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "167",
+        "nombre": "MEDINA HUGO RODOLFO",
+        "domicilio_laboral": "Sanatorio La Comunidad Salta 35",
+        "telefono": "383-4542716",
+        "orientacion_clinica": "Cognitivo",
+        "domicilio": "Niños - Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "168",
+        "nombre": "VERA MARIA MERCEDES",
+        "domicilio_laboral": "Republica 863",
+        "telefono": "383-4581052",
+        "orientacion_clinica": "Individual",
+        "domicilio": "Niños - Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "169",
+        "nombre": "PAPA SANDRA",
+        "domicilio_laboral": "Direccion de seguridad ciudadana",
+        "telefono": "383-4239780",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "171",
+        "nombre": "CARRIZO PAOLA SOLEDAD",
+        "domicilio_laboral": "Junin 296",
+        "telefono": "383-4322321",
+        "orientacion_clinica": "cognitivo-conductual",
+        "domicilio": "Adolescentes - Adultos- 3° edad / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "173",
+        "nombre": "MACEDO ANA CAROLINA",
+        "domicilio_laboral": "Republica 984",
+        "telefono": "383-4458341",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes- Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "174",
+        "nombre": "SANCHEZ MARIA DLA",
+        "domicilio_laboral": "Chacabuco 284",
+        "telefono": "383-4304701",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "175",
+        "nombre": "HERRERA CECILIA MARIA BELEN",
+        "domicilio_laboral": "Sarmiento 842",
+        "telefono": "383-4429126",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes- Adultos- 3 Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "176",
+        "nombre": "CUTULI MARIA EVA",
+        "domicilio_laboral": "B°Gral.Paz, Pedro Ignacio Acuña 165",
+        "telefono": "383-4401178",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "177",
+        "nombre": "SESIN NATALIA",
+        "domicilio_laboral": "Ministerio de Salud",
+        "telefono": "383-4360008",
+        "orientacion_clinica": "Orientacion Clinica (Gestalt-Sistematica)",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "178",
+        "nombre": "ALVAREZ NELLY ISABEL",
+        "domicilio_laboral": "Rivadavia 370-Santa Maria",
+        "telefono": "3838-420259",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "179",
+        "nombre": "CACERES MARIA EMILIA",
+        "domicilio_laboral": "Tucuman 338",
+        "telefono": "383-4665757",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "181",
+        "nombre": "FUENZALIDA MARIANA NOELIA",
+        "domicilio_laboral": "Sarmiento 842 1°piso",
+        "telefono": "383-4412245",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Adolescentes - Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "182",
+        "nombre": "ASAD RITA KARINA",
+        "domicilio_laboral": "B° La Banda-Poman",
+        "telefono": "383-4780271",
+        "orientacion_clinica": "Psicoterapia- Discapacidad",
+        "domicilio": "Niños - Adolescentes - Adultos- 3° edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "185",
+        "nombre": "DIAZ VERGARA ROXANA BEATRIZ",
+        "domicilio_laboral": "Sarmiento 20",
+        "telefono": "383-4403520",
+        "orientacion_clinica": "Psicoterapia Psicoanalitica",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "186",
+        "nombre": "ZABALETA AGUSTINA",
+        "domicilio_laboral": "MATERNIDAD",
+        "telefono": "383-4621020/383-4748227",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "187",
+        "nombre": "CASTAGNO SANDRA CARINA",
+        "domicilio_laboral": "San Martín de Güemes 785 - San Antonio FME",
+        "telefono": "383-4537776",
+        "orientacion_clinica": "Psicoterapia Focalizada con orientación Psicoanalítica",
+        "domicilio": "Adolescentes - Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "188",
+        "nombre": "BEALE SEBASTIAN",
+        "domicilio_laboral": "República 80 \"Crear\"",
+        "telefono": "383-4907432",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3ª Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "189",
+        "nombre": "NOBLEGA MARIA DE LOS ANGELES",
+        "domicilio_laboral": "Chacabuco 850",
+        "telefono": "383-4464774",
+        "orientacion_clinica": "cognitivo-conductual-Orientacion vocacional-Selección de personal",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "190",
+        "nombre": "DE LA PEÑA MARIA VIRGINIA",
+        "domicilio_laboral": "La Soledad ss/n-Santa Maria",
+        "telefono": "3838-497577",
+        "orientacion_clinica": "Sistémica",
+        "domicilio": "Niños-Adolescentes-Adultos /Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "191",
+        "nombre": "VARGAS FERNANDEZ",
+        "domicilio_laboral": "ESCUELA N°994",
+        "telefono": "383-4173237/383-4262552",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "192",
+        "nombre": "AVALOS, LAURA",
+        "domicilio_laboral": "MATERNIDAD PROVINCIAL",
+        "telefono": "383-4839718",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "193",
+        "nombre": "SANTILLAN GLORIA MARIANA",
+        "domicilio_laboral": "Francisco Figueroa 1486",
+        "telefono": "383-4391567",
+        "orientacion_clinica": "Terapia Psicológica Cognitiva Conductual",
+        "domicilio": "Niños- Adolescentes- Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "194",
+        "nombre": "VILLEGAS ZABALA SERGIO",
+        "domicilio_laboral": "Pedro Ignacio Acuña 165",
+        "telefono": "383-4401189",
+        "orientacion_clinica": "Gestalt",
+        "domicilio": "Adolescentes - Adultos/ Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "196",
+        "nombre": "GERHARDT ÉRICA EUGENIA",
+        "domicilio_laboral": "Padre Ramón de la Quintana 37",
+        "telefono": "383-4467280",
+        "orientacion_clinica": "Gestáltica",
+        "domicilio": "Niños - Adolescentes -Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "197",
+        "nombre": "LOPEZ SAUQUE LUCIANA",
+        "domicilio_laboral": "ESCUELA N°353",
+        "telefono": "383-4649532",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "201",
+        "nombre": "RAMOS DE LA PEÑA NOELIA",
+        "domicilio_laboral": "Loteo De la Peña s s/n-Santa Maria",
+        "telefono": "381-6559937/388-496820",
+        "orientacion_clinica": "Clinica",
+        "domicilio": "Niños-Adolescentes-Adultos-3 Edad-Discapacidad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "202",
+        "nombre": "HERRERA LESTUSSY ALEXANDRY",
+        "domicilio_laboral": "IES Juan Manuel Echeverria",
+        "telefono": "383-4210381",
+        "orientacion_clinica": "",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "203",
+        "nombre": "REBELLATO MARIA DEL PILAR",
+        "domicilio_laboral": "Conesa Norte 408",
+        "telefono": "383-4623444",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes - Adultos - 3ª Edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "204",
+        "nombre": "RODRIGUEZ MARIA CARINA",
+        "domicilio_laboral": "Ma. Auxiliadora - Los Altos",
+        "telefono": "383-4535938",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Adolescentes -Adultos / Individual-Pareja Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "205",
+        "nombre": "LOBO HERRERA MARTIN",
+        "domicilio_laboral": "Loteo El Remanso. San Antonio. F.M.E",
+        "telefono": "383-4650574",
+        "orientacion_clinica": "Gestáltica",
+        "domicilio": "Adolescentes- Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "206",
+        "nombre": "FULLANA LAURA ANALIA",
+        "domicilio_laboral": "Chacabuco 730",
+        "telefono": "383-4557491",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3EDAD/ Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "207",
+        "nombre": "YURQUINA FLORES MARIA GABRIELA",
+        "domicilio_laboral": "Lavalle 118",
+        "telefono": "383-4464010",
+        "orientacion_clinica": "Gestalt-Cognitiva",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "209",
+        "nombre": "GALVEZ VERONICA DEL VALLE",
+        "domicilio_laboral": "Av. 1 de Mayo 855-Santa Maria",
+        "telefono": "381-5956872",
+        "orientacion_clinica": "Psicoanalisis Vincular",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "210",
+        "nombre": "HERRERA MARIA VERONICA",
+        "domicilio_laboral": "Almagro 266 P.B.",
+        "telefono": "383-4249175",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "211",
+        "nombre": "UNZAGA ANA ALEJANDRA",
+        "domicilio_laboral": "Guemes 630 LAZOS",
+        "telefono": "383-4666407",
+        "orientacion_clinica": "Discapacidad-Cognitiva Conductual y vincular",
+        "domicilio": "Niños - Adolescentes / Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "213",
+        "nombre": "BOCHATEY, VICTORIA",
+        "domicilio_laboral": "HOSPITAL SAN JUAN B.",
+        "telefono": "383-4665471",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "214",
+        "nombre": "ZUCCON, IVANNA GRACIELA",
+        "domicilio_laboral": "Padre Esquiu 933-San Isidro/ Matias Aredes s/n-La merced Paclin",
+        "telefono": "383-4762689/383-4495054",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "217",
+        "nombre": "CORDOBA LETICIA",
+        "domicilio_laboral": "9 de Julio 726",
+        "telefono": "383-4665589",
+        "orientacion_clinica": "Cognitivo-Conductual",
+        "domicilio": "Adolescentes - Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "218",
+        "nombre": "SILVA MARIA ALEJANDRA",
+        "domicilio_laboral": "Peru 320",
+        "telefono": "383-4019320",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "219",
+        "nombre": "MOLINA PAULA",
+        "domicilio_laboral": "Mota Botello 52",
+        "telefono": "383-4509684",
+        "orientacion_clinica": "",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "220",
+        "nombre": "MONTALVA APARICIO MARIA DEL HUERTO",
+        "domicilio_laboral": "Esquiú 887",
+        "telefono": "383-4383250",
+        "orientacion_clinica": "Cognitiva Conductual- O. Vocacional",
+        "domicilio": "Adolescentes - Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "222",
+        "nombre": "SALMAN SAADI EMELINA CECILIA",
+        "domicilio_laboral": "Junin 1152 \"EDUCARTE\"",
+        "telefono": "383-4419388",
+        "orientacion_clinica": "Psicoterapia de objetivos limitados-Sexologia-Pericias Psicologicas-Abuso Sexual-Educacion",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Pareja-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "224",
+        "nombre": "POBLETTE MARIA ALEJANDRA",
+        "domicilio_laboral": "Avellaneda 426",
+        "telefono": "383-4522012",
+        "orientacion_clinica": "Gestalt",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "225",
+        "nombre": "SALAS NANCY ALEJANDRA",
+        "domicilio_laboral": "Adan Quiroga s/n-Saujil",
+        "telefono": "3835-415190",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños- Adolescentes- Adultos - 3° Edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "227",
+        "nombre": "OVEJERO MARIA NOELIA",
+        "domicilio_laboral": "Padre de la Quintana 155",
+        "telefono": "383-4292734",
+        "orientacion_clinica": "Sistémica-Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3 Edad / Individual-Pereja-Familia-Discapacidad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "228",
+        "nombre": "BUSTAMANTE LAURA BEATRIZ",
+        "domicilio_laboral": "Caseros 477",
+        "telefono": "383-4585675",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "229",
+        "nombre": "OCAMPO SILVINA VANESA",
+        "domicilio_laboral": "Conessa 520",
+        "telefono": "383-4221782",
+        "orientacion_clinica": "Eclectica",
+        "domicilio": "Niños-Adoles.-Adultos-3ª Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "233",
+        "nombre": "ACOSTA JOFRE, VALERIA",
+        "domicilio_laboral": "Humaraya",
+        "telefono": "383-4596206",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "234",
+        "nombre": "ASIS PAOLA ROMINA",
+        "domicilio_laboral": "B° 88 VIV. Casa 41-Recreo",
+        "telefono": "3832-414418",
+        "orientacion_clinica": "Psicoterapia focalizada",
+        "domicilio": "Niños - Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "235",
+        "nombre": "BILBAO LA VIEJA MARTHA INES",
+        "domicilio_laboral": "Mate de Luna 842",
+        "telefono": "383-4783605",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "236",
+        "nombre": "SILVA EVA",
+        "domicilio_laboral": "República 863 \"PRANA\" / Hospital Juan Bautista",
+        "telefono": "383-4550119",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes- Adultos-3 Edad / Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "238",
+        "nombre": "PAEZ FLORES HILEN JUDITH",
+        "domicilio_laboral": "Rojas 157",
+        "telefono": "383-4007884",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "239",
+        "nombre": "FULLANA LORENA MARISOL",
+        "domicilio_laboral": "Caseros 709",
+        "telefono": "383-4600338",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad / Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "240",
+        "nombre": "LOBOS ELOY MAURICIO",
+        "domicilio_laboral": "Chacabuco 675- PASTEUR- B° 250 v.v c/186",
+        "telefono": "4432000/5 int333 - 383-4317197",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos- 3 Edad / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "241",
+        "nombre": "SOLOHAGA ELIANA A.",
+        "domicilio_laboral": "Av.Virgen de Belen s/n-Belen",
+        "telefono": "3835-519812",
+        "orientacion_clinica": "Area Laboral- Psicologia del Transito- Psicodiagnostico Gral- Enfoque Neuropsicologico - Aptos Psicofisicos",
+        "domicilio": "Adultos - Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "243",
+        "nombre": "PAZ MARIA DEL VALLE",
+        "domicilio_laboral": "Chacabuco 561",
+        "telefono": "383-4370141",
+        "orientacion_clinica": "Sistemática-Neuropsicología",
+        "domicilio": "Niños-Adultos-3°EDAD / Individual-Pareja-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "244",
+        "nombre": "AGUIRRE MARIA DE LOS ANGELES",
+        "domicilio_laboral": "UPA Padre Esquiu 338 - Valle Viejo",
+        "telefono": "383-4257545",
+        "orientacion_clinica": "Cognitivo- conductual",
+        "domicilio": "Niños - Adolescentes-Adultos / Individual-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "246",
+        "nombre": "FERNANDEZ CAMILA NOE",
+        "domicilio_laboral": "Esquiu 887",
+        "telefono": "383-4566137",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños - Adolescentes- Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "247",
+        "nombre": "MOTRAN SILVINA DEL VALLE",
+        "domicilio_laboral": "Prado 774",
+        "telefono": "383-4041976",
+        "orientacion_clinica": "Psicoanalisis Cognitiva / Forense / Psicodiagnostico",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "249",
+        "nombre": "VANACKERE ERWIN AXEL",
+        "domicilio_laboral": "Echeverria 142 B°el mastil",
+        "telefono": "383-4665975",
+        "orientacion_clinica": "Humanista",
+        "domicilio": "Adolescentes - Adultos / Individual-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "250",
+        "nombre": "HERRERA MARIA EUGENIA",
+        "domicilio_laboral": "Echeverria 142 B°el mastil",
+        "telefono": "383-4665683",
+        "orientacion_clinica": "Educacional-Humanista",
+        "domicilio": "Adolescentes-Adultos / Individual-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "252",
+        "nombre": "GODOY NATALIA ALEJANDRA",
+        "domicilio_laboral": "Dr.Moron A. David 2262 B°Parque circulo medico",
+        "telefono": "383-4423268/383-4219315",
+        "orientacion_clinica": "Psicosomatica/Psicoanalitica",
+        "domicilio": "Niños- Adolescentes - Adultos- 3 edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "253",
+        "nombre": "SEGURA IANNA SILVIA SUSANA",
+        "domicilio_laboral": "República 80 \"Crear\"/ Ocampo 942",
+        "telefono": "383-4923913",
+        "orientacion_clinica": "Cognitiva conductual",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad / Individual-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "254",
+        "nombre": "TEME RODRIGUEZ YASMINE",
+        "domicilio_laboral": "Maipu 109",
+        "telefono": "383-4554407",
+        "orientacion_clinica": "Psicoterapia Cognitiva Conductual",
+        "domicilio": "Adolescentes -Adultos- 3° Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "255",
+        "nombre": "JALILE SAMIRA LAILA",
+        "domicilio_laboral": "Chacabuco 670/ Ser Integral (ANDALGALA)",
+        "telefono": "383-4641805",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes- Adultos-3 Edad / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "256",
+        "nombre": "LOPEZ RODRIGUEZ PAOLA",
+        "domicilio_laboral": "Bonifacio Cordoba 478 Inst. Preventor",
+        "telefono": "383-4028941",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "258",
+        "nombre": "FIGUEROA LORENA PAOLA",
+        "domicilio_laboral": "Caseros 709",
+        "telefono": "351-3336323",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños-Adolescentes - Adultos/Individual-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "259",
+        "nombre": "ZANNIER MARIA EUGENIA",
+        "domicilio_laboral": "Buenos Aires 847",
+        "telefono": "383-4427790",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "260",
+        "nombre": "VERON LORENA",
+        "domicilio_laboral": "ANDES\" Calle Abaucan s/n /\"FRANCISCO\" Diego Carrizo de Frites s/n  - Fiambala",
+        "telefono": "383-4284449/383-7691084",
+        "orientacion_clinica": "",
+        "domicilio": "Niños-Adolescentes-Adultos-3 edad/ Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "261",
+        "nombre": "VILLACORTA MARIA FERNANDA",
+        "domicilio_laboral": "Copiapo 380-Tinogasta",
+        "telefono": "3837-691899",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3 Edad / Individual-Pereja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "262",
+        "nombre": "MENDEZ ANA PAULA",
+        "domicilio_laboral": "Zurita 437",
+        "telefono": "383-4041366",
+        "orientacion_clinica": "Cognitiva Conductual Vincular",
+        "domicilio": "Niños-Adolescentes-Adultos /Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "264",
+        "nombre": "FUENTE ANDREA JULIETA",
+        "domicilio_laboral": "General Navarro 810",
+        "telefono": "383-4276555",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "265",
+        "nombre": "RAMOS DE LA PEÑA MARIA EUGENIA",
+        "domicilio_laboral": "Belgrano 1081,Pje Privado,Dpto 1-Santa Maria",
+        "telefono": "381-3303440",
+        "orientacion_clinica": "Cognitiva-Conductual",
+        "domicilio": "Niños - Adolescentes",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "266",
+        "nombre": "PONCE SOLEDAD DEL MAR",
+        "domicilio_laboral": "Instituto Preventor-San Antonio-FME",
+        "telefono": "383-4558151/383-4007487",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Adolescentes-Adultos-3edad/Individual-Oncologicos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "267",
+        "nombre": "GUTIERREZ ADRIANA VICTORIA ARGENTINA",
+        "domicilio_laboral": "Maipu 873 PB Centro Interdisciplinario",
+        "telefono": "383-4617633",
+        "orientacion_clinica": "Psicoterapia breve Psicoanalitica",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "268",
+        "nombre": "ARCE MAURICIO NICOLAS",
+        "domicilio_laboral": "República 863",
+        "telefono": "383-4008243",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3° edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "269",
+        "nombre": "PERETO MARIA DEL MAR",
+        "domicilio_laboral": "Maipu934",
+        "telefono": "383-4008675",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "270",
+        "nombre": "VICENTE INES",
+        "domicilio_laboral": "Av.Recalde esq. Los Fundadores",
+        "telefono": "383-4258553",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "271",
+        "nombre": "DIAZ MARIA ALEJANDRA",
+        "domicilio_laboral": "Pedro Goyena 128",
+        "telefono": "383-4038832",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos-3 EDAD / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "272",
+        "nombre": "OLMOS DAIANA ANTONELLA",
+        "domicilio_laboral": "Caseros 477",
+        "telefono": "383-4378711",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños - Adolescentes- Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "273",
+        "nombre": "ARCE VERONICA TRINIDAD",
+        "domicilio_laboral": "Mate de Luna 122",
+        "telefono": "383-4613048",
+        "orientacion_clinica": "Cognitivo- conductual",
+        "domicilio": "Adultos - 3° Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "275",
+        "nombre": "MANZI MARIA",
+        "domicilio_laboral": "PODER JUDICIAL",
+        "telefono": "383-4258853",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "276",
+        "nombre": "MERCADO MARIA FERNANDA",
+        "domicilio_laboral": "Peru 449",
+        "telefono": "383-4690444",
+        "orientacion_clinica": "Psicoanalisis-Gestalt",
+        "domicilio": "Niños-Adolescentes-Adultos/Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "277",
+        "nombre": "MOLAS, ERIKA ROMINA-",
+        "domicilio_laboral": "Esquiu 887",
+        "telefono": "383-4670789",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes- Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "279",
+        "nombre": "BASTOS MARIA MARTA",
+        "domicilio_laboral": "San Martin 1076",
+        "telefono": "383-4245910",
+        "orientacion_clinica": "Cognitivo- conductual",
+        "domicilio": "Niños-Adolescentes-Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "280",
+        "nombre": "BIANCATO ANDREA ALEJANDRA",
+        "domicilio_laboral": "Vicario Segura 546",
+        "telefono": "383-4250869",
+        "orientacion_clinica": "Psicoanalisis-Psicodiagnostico",
+        "domicilio": "Niños -Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "281",
+        "nombre": "GERONIMO ISIS",
+        "domicilio_laboral": "Gabinete escuela de Valle Viejo",
+        "telefono": "383-4047717",
+        "orientacion_clinica": "Sistematica",
+        "domicilio": "Adolescentes-Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "282",
+        "nombre": "OSSOLA ALEJANDRO",
+        "domicilio_laboral": "Centro Integral de Salud/ Inst. La Comunidad",
+        "telefono": "383-4035234",
+        "orientacion_clinica": "Psicoanalitica-Psicoterapia",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "283",
+        "nombre": "SALI MARIA LAURA",
+        "domicilio_laboral": "Rojas 923-Osecac",
+        "telefono": "383-4252827",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "284",
+        "nombre": "SIGIFREDO PAMELA AGATA",
+        "domicilio_laboral": "Guemes 630 LAZOS",
+        "telefono": "383-4038167",
+        "orientacion_clinica": "Cognitivo Conductual- Neuropsicología",
+        "domicilio": "Niños - 3° edad / Individual-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "285",
+        "nombre": "HERRERA ROSANA NATALI",
+        "domicilio_laboral": "Gdor. Cubas 241-Belén",
+        "telefono": "3835-698904",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "286",
+        "nombre": "HEREDIA PATRICIA DEL VALLE",
+        "domicilio_laboral": "Rojas 165",
+        "telefono": "383-4937059",
+        "orientacion_clinica": "Familiar Sistémica",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "287",
+        "nombre": "SALOMON ROMINA ALEJANDRA",
+        "domicilio_laboral": "Los Fundadores y Av. Recalde",
+        "telefono": "383-4557439",
+        "orientacion_clinica": "Psicoanálisis Lacaniano",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "289",
+        "nombre": "AREDES MARIA LORENA",
+        "domicilio_laboral": "Vicario Segura 1027",
+        "telefono": "383-4234492",
+        "orientacion_clinica": "Terapia Familiar Sistemática-Psicoanálisis",
+        "domicilio": "Adultos-3 Edad / Individual-Pareja-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "290",
+        "nombre": "MEDINA MARIA SUSANA",
+        "domicilio_laboral": "Pasaje Quevedo 144",
+        "telefono": "383-4584851",
+        "orientacion_clinica": "Psicoterapia cognitiva. EMAR",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "291",
+        "nombre": "NOBLEGA MARIA LAURA",
+        "domicilio_laboral": "Sarmiento 842 1°piso",
+        "telefono": "383-4330580",
+        "orientacion_clinica": "Sistemica-Psicoanalisis",
+        "domicilio": "Adolescentes - Adultos / Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "292",
+        "nombre": "VARELA REZZANO MARIA DE LOS MILAGROS",
+        "domicilio_laboral": "Av. Ocampo 2094",
+        "telefono": "383-4224063",
+        "orientacion_clinica": "Gestalt",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "293",
+        "nombre": "QUINTEROS HECTOR VICTOR HEBER",
+        "domicilio_laboral": "Ocampo 942",
+        "telefono": "383-4588189",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3ª Edad / Individual-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "294",
+        "nombre": "BARROS DIAZ MARIA JIMENA",
+        "domicilio_laboral": "Maipú 860",
+        "telefono": "383-4279280",
+        "orientacion_clinica": "Cognitivo- conductual / Neurorehabilitación",
+        "domicilio": "Niños -Adolescentes / Individual-Familia-Grupos-Discapacidad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "295",
+        "nombre": "FADEL ANA CAROLINA",
+        "domicilio_laboral": "25 de Mayo 881",
+        "telefono": "383-4172938 / 383-4323131",
+        "orientacion_clinica": "Psicologia Clinica",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "296",
+        "nombre": "MORALES SABINA YANEL",
+        "domicilio_laboral": "Chacabuco 1015",
+        "telefono": "383-4296222",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3 edad /Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "297",
+        "nombre": "CARRIZO SONIA DELVALLE",
+        "domicilio_laboral": "Av. Recalde y los Fundadores",
+        "telefono": "383-4902705",
+        "orientacion_clinica": "Psicoterapia Psicoanalitica",
+        "domicilio": "Adolescentes - Adultos - Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "298",
+        "nombre": "CEJAS ANA CARLA",
+        "domicilio_laboral": "Rojas 165",
+        "telefono": "383-4680107",
+        "orientacion_clinica": "Gestáltica",
+        "domicilio": "Niños -Adolescentes- Adultos/ Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "300",
+        "nombre": "BARROS IVANNA NOELIA",
+        "domicilio_laboral": "Perú 449",
+        "telefono": "383-4213609",
+        "orientacion_clinica": "Psicoanaisis",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "301",
+        "nombre": "GARCIA CHAVEZ ELIDA SILVINA",
+        "domicilio_laboral": "Maipu 375",
+        "telefono": "383-4428185",
+        "orientacion_clinica": "Psicoanalisis-Psicodiagnostico-Vincular",
+        "domicilio": "Niños - Adolescentes - Adultos - 3EDAD / iNDIVIDUAL",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "302",
+        "nombre": "CORDOBA, RAFAELA EVANGELINA",
+        "domicilio_laboral": "Gral.Roca 191-Belen",
+        "telefono": "3835-461934/ 351-7614442",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños - Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "303",
+        "nombre": "NARVAEZ MARIA M",
+        "domicilio_laboral": "S/D",
+        "telefono": "383-4033918",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "304",
+        "nombre": "CORONEL MARIA VIRGINIA",
+        "domicilio_laboral": "Salta 787 \" varite\"",
+        "telefono": "383-4815561",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad /Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "306",
+        "nombre": "MAZUR, MARIA EUGENIA",
+        "domicilio_laboral": "Lavalle 118",
+        "telefono": "383-4041820",
+        "orientacion_clinica": "Psicoanalisis lacaniano",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "307",
+        "nombre": "TORRENTE JULIO MANUEL",
+        "domicilio_laboral": "General Paz 140-Belen",
+        "telefono": "3835-407259",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "308",
+        "nombre": "MALDONADO MARIA PAULA",
+        "domicilio_laboral": "Maipú 375",
+        "telefono": "383-4941391",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos- 3° edad/ Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "309",
+        "nombre": "ROJAS ROBERTO ALEXIS",
+        "domicilio_laboral": "Prado 415",
+        "telefono": "383-4589244",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3° edad/ Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "310",
+        "nombre": "ZULIANI ELIANA SOFIA",
+        "domicilio_laboral": "Peru 449",
+        "telefono": "383-4000443",
+        "orientacion_clinica": "",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "311",
+        "nombre": "MANSILLA MARIA VIRGINIA",
+        "domicilio_laboral": "San Martin 95",
+        "telefono": "383-4056985",
+        "orientacion_clinica": "cognitivo-conductual",
+        "domicilio": "Niños - Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "312",
+        "nombre": "PIOLI CAMILA",
+        "domicilio_laboral": "Sarmiento 20",
+        "telefono": "383-4507355",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños-Adoles.-Adultos-3ª Edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "313",
+        "nombre": "VILLAGRA CECILIA ANDREA",
+        "domicilio_laboral": "9 de Julio 472",
+        "telefono": "383-4382134",
+        "orientacion_clinica": "Sistémica",
+        "domicilio": "Adultos / Individual -Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "317",
+        "nombre": "ARIAS GIBERT EMILIANO Junin 257",
+        "domicilio_laboral": "383-4340182",
+        "telefono": "Psicoanálisis",
+        "orientacion_clinica": "Adultos / Individual",
+        "domicilio": "SI",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "319",
+        "nombre": "FULLANA KROHN SILVANA MARTHA",
+        "domicilio_laboral": "Prado 75",
+        "telefono": "383-4032047",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "320",
+        "nombre": "QUIROGA ROGER ESTHER JUDITH",
+        "domicilio_laboral": "Perú 449",
+        "telefono": "383-4013148",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "321",
+        "nombre": "RODAS EVELYN GABRIELA",
+        "domicilio_laboral": "Camilo Melet 495 Consultorio 4",
+        "telefono": "383-4900011",
+        "orientacion_clinica": "Sistémica",
+        "domicilio": "Adolescentes-Adultos / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "323",
+        "nombre": "LOPEZ, GUILLERMO ALBERTO",
+        "domicilio_laboral": "Colombia 2174",
+        "telefono": "3832-408076",
+        "orientacion_clinica": "cognitiva-conductual-vincular- aptos de conducir",
+        "domicilio": "Adolescentes-Adultos-3ª Edad / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "324",
+        "nombre": "VARELA  F. YANINA",
+        "domicilio_laboral": "FASTA",
+        "telefono": "383-4782515",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "325",
+        "nombre": "LAGO MARIA CELESTE",
+        "domicilio_laboral": "Padre Ramon de la Quintana 37",
+        "telefono": "351-2394263",
+        "orientacion_clinica": "Psicoanalisis Cognitiva-Psicoterapia-Psicodiagnostico",
+        "domicilio": "Niños - Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "327",
+        "nombre": "ARPIRE IANINA CAROLA",
+        "domicilio_laboral": "Av.Guemes 944",
+        "telefono": "383-4607479",
+        "orientacion_clinica": "Psicoterapia Integrativa",
+        "domicilio": "Adolescentes-Adultos-3 Edad / Individual-Discapacidad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "328",
+        "nombre": "DIAZ MARIA SOLEDAD",
+        "domicilio_laboral": "Rojas 227",
+        "telefono": "383-4551769",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Niños-Adolescentes / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "329",
+        "nombre": "SIERRALTA DAIANA DEL VALLE",
+        "domicilio_laboral": "Peru 449",
+        "telefono": "351-2056735",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños- Adolescentes- Adultos- 3 Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "330",
+        "nombre": "DALMAIDA ANA VALERIA",
+        "domicilio_laboral": "Salta 408- 1°piso",
+        "telefono": "383-4574432",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3 edad / Individual-Familia-Pareja-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "331",
+        "nombre": "NADER ALICIA MARIA ISABEL",
+        "domicilio_laboral": "Hospital Dr. Andrada - Lavalle / Hospital Bañado de Ovanta",
+        "telefono": "381-5581644",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "332",
+        "nombre": "MORALES MARIA ESTEFANIA",
+        "domicilio_laboral": "Maipú 873",
+        "telefono": "383-4297666",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3ª Edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "333",
+        "nombre": "PINETTA AMANDA",
+        "domicilio_laboral": "Pedro Goyena 128",
+        "telefono": "383-4646408",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes - Adultos- 3° edad / Individual-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "334",
+        "nombre": "MIÑAN GRACIELA NOEMI",
+        "domicilio_laboral": "Ayacucho 683",
+        "telefono": "383-4006267",
+        "orientacion_clinica": "Psicoanalisis Gestalt",
+        "domicilio": "Adolescentes- Adultos- 3 Edad/ Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "335",
+        "nombre": "HUPPI NADIA",
+        "domicilio_laboral": "Federico Espeche 1980 / Poder Judicial",
+        "telefono": "3548-585882",
+        "orientacion_clinica": "Cognitivo Conductual- Forense",
+        "domicilio": "Niños- adolescentes- adultos- 3 edad / Individual-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "336",
+        "nombre": "GARCIA TERAN MATIAS",
+        "domicilio_laboral": "Federico Espeche 1980 / Ministerio de Salud",
+        "telefono": "351-2417733",
+        "orientacion_clinica": "Cognitivo-Conductual",
+        "domicilio": "Adolescentes - Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "337",
+        "nombre": "BARRIONUEVO, IVANA",
+        "domicilio_laboral": "Ministerio de Salud",
+        "telefono": "383-4219651",
+        "orientacion_clinica": "",
+        "domicilio": "",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "338",
+        "nombre": "PEREZ CHAYLE ROSSANA VANESA",
+        "domicilio_laboral": "Maipu 167",
+        "telefono": "383-4213203",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "339",
+        "nombre": "BOGGIO ANA VERONICA",
+        "domicilio_laboral": "Rojas 124 Dpto 5",
+        "telefono": "383-4560801",
+        "orientacion_clinica": "Cognitiva Conductual/Psicogerentologia/Neuropsicologia",
+        "domicilio": "Niños-Adolescentes-Adultos-3 edad /Individual-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "340",
+        "nombre": "CRUZ LIDIA ELIZABETH",
+        "domicilio_laboral": "Arturo Gimenez 371 / Hospital Regional- Santa María",
+        "telefono": "381-4751967",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "341",
+        "nombre": "FELIPPA MELINA",
+        "domicilio_laboral": "Bonifacio Cordoba 478 // Centro Integral de Salud",
+        "telefono": "3572-666433",
+        "orientacion_clinica": "congnitivo conductual",
+        "domicilio": "Adolescentes- Adultos- 3 Edad / Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "342",
+        "nombre": "GALLO VERGNIAUD YANINA",
+        "domicilio_laboral": "Salta 787 \"Varitè\"",
+        "telefono": "351-3294961",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "343",
+        "nombre": "LOBO MOLINA MARIA JULIETA",
+        "domicilio_laboral": "Esquiu 887",
+        "telefono": "383-4045493",
+        "orientacion_clinica": "Psicoanalisis / Psicooncologia",
+        "domicilio": "Adolescentes-Adultos / Individual-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "344",
+        "nombre": "BERRONDO NADIA DESIREE",
+        "domicilio_laboral": "Almagro 667",
+        "telefono": "383-4330240",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3 edad / Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "345",
+        "nombre": "VALDEZ RAFAEL MATIAS",
+        "domicilio_laboral": "Emilio Molas n° 9 (detrás de OSEP) / Rojas 227 \"Descubrir\" / Adapta sin barreras",
+        "telefono": "381-6785691",
+        "orientacion_clinica": "cognitivo conductual",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad / Individual-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "347",
+        "nombre": "ITURRIZA LUCIA",
+        "domicilio_laboral": "Pje Luis Franco y Conrado y Tula N°1 - Belén",
+        "telefono": "381-5604925",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos/ Individual-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "348",
+        "nombre": "CODIGONI DIAZ JUAN",
+        "domicilio_laboral": "subsecre de salud mental y adicciones",
+        "telefono": "351-2099238",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Niños Adolescentes",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "349",
+        "nombre": "GRAMAJO MARIA PIEDAD",
+        "domicilio_laboral": "Av.Martin de Guemes 785 Fray M. Esquiu",
+        "telefono": "383-4535001",
+        "orientacion_clinica": "Gestalt-Familiar Sistematica",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "350",
+        "nombre": "GHANEM DAIANA YASMIN",
+        "domicilio_laboral": "Dr Sabagh y Ramon Castillo- Recreo",
+        "telefono": "381-4054713",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad / Individual-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "351",
+        "nombre": "CHAVEZ LOPEZ LORENA CECILIA",
+        "domicilio_laboral": "Junin 173",
+        "telefono": "383-4426122",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes - Adultos- 3° edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "352",
+        "nombre": "SANCHEZ MARIA LEONELA",
+        "domicilio_laboral": "Ayacucho 1281",
+        "telefono": "383-4200248",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Adolescentes - Adultos / Individual-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "353",
+        "nombre": "GODOY CESAR JAVIER-",
+        "domicilio_laboral": "Sarmiento 1088 PB C",
+        "telefono": "383-4341213",
+        "orientacion_clinica": "Psicoanálisis Lacaniano",
+        "domicilio": "Adolescentes - Adultos - 3edad / Individual -Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "354",
+        "nombre": "HERRERA AGUIRRE GISELLE AGUSTINA",
+        "domicilio_laboral": "Ministro Dulce 211",
+        "telefono": "383-4064468",
+        "orientacion_clinica": "Cognitivo-Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos /Individual-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "355",
+        "nombre": "SUAREZ CECENARRO MARINA CORAL",
+        "domicilio_laboral": "Junin 369",
+        "telefono": "383-4984734 / 383-4904888",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Niños - Adolescentes-  Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "357",
+        "nombre": "BURCKWARDT GUILLERMO JUAN",
+        "domicilio_laboral": "Av. Presidente Castillo 980-San Isidro",
+        "telefono": "383-4670941",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3 Edad / Individual-Pareja-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "358",
+        "nombre": "MARTIN LORENA",
+        "domicilio_laboral": "Prado 415",
+        "telefono": "383-4712896",
+        "orientacion_clinica": "Psicoanálisis Cognitivo Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad/Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "359",
+        "nombre": "ACOSTA EMILCE",
+        "domicilio_laboral": "General Paz 140 N°62 \"B\"-Belen",
+        "telefono": "351-5395900",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos/ Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "360",
+        "nombre": "DELGADO BARRIONUEVO MARIA JOSE",
+        "domicilio_laboral": "JUNIN 957 DPTO B",
+        "telefono": "351-2359900",
+        "orientacion_clinica": "Psicoanalisis Lacaniano",
+        "domicilio": "Niños- Adolescentes- Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "361",
+        "nombre": "LOPEZ SAMUEL DARIO-",
+        "domicilio_laboral": "Copiapo 380-Tinogasta",
+        "telefono": "351-3518037",
+        "orientacion_clinica": "Psicoterapia Psicoanalitica",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad / Individual-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "362",
+        "nombre": "GALLO ANDREA YULIANA",
+        "domicilio_laboral": "Av. Guemes 630 LAZOS",
+        "telefono": "383-4448696/383-4406702",
+        "orientacion_clinica": "Cognitivo-Conductual",
+        "domicilio": "Niños - Adolescentes- Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "363",
+        "nombre": "VALDEZ SANTIAGO-",
+        "domicilio_laboral": "Pedro Goyena 128",
+        "telefono": "383-4300900",
+        "orientacion_clinica": "Psicologia Clinica",
+        "domicilio": "Adolescentes- Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "365",
+        "nombre": "VILLAGRA DEBORA ALEJANDRA",
+        "domicilio_laboral": "9 de Julio 1027- 1 ° piso",
+        "telefono": "383-4004975",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes- Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "366",
+        "nombre": "ACOSTA MARIA FLORENCIA",
+        "domicilio_laboral": "Pasaje Santa Rita n° 28",
+        "telefono": "381-4492112",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "367",
+        "nombre": "PARODI VALERIA SUSANA",
+        "domicilio_laboral": "Chacabuco 949",
+        "telefono": "383-4561688",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "368",
+        "nombre": "PEREZ MARIA EMILIA-",
+        "domicilio_laboral": "Pedro Goyena 128",
+        "telefono": "383-4257182",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños - Adolescentes - Adultos- 3° edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "369",
+        "nombre": "VILLAFAÑEZ ROMINA MARIBEL",
+        "domicilio_laboral": "Guemes 630 LAZOS / Zurita 437 SENTIDOS",
+        "telefono": "383-4937145",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad/Individual-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "371",
+        "nombre": "GONZALEZ MARIA BELEN",
+        "domicilio_laboral": "Av. Libertad es. Rivadavia-Andalgala",
+        "telefono": "3835-530082",
+        "orientacion_clinica": "Psicoterapia breve",
+        "domicilio": "Niños - Adolescentes- Adultos- 3 edad / Individual -Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "372",
+        "nombre": "ZAR RODRIGUEZ PAOLA",
+        "domicilio_laboral": "Mate de Luna 842 / Hospital de chumbicha",
+        "telefono": "381-5190807",
+        "orientacion_clinica": "Holistica",
+        "domicilio": "Niños - Adolescentes- Adultos- 3 edad / Individual -Pareja-Familia-Grupos-Oncologia-Discapacidad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "373",
+        "nombre": "CISNEROS LUIS",
+        "domicilio_laboral": "Los Regionales 2159",
+        "telefono": "351-2391369",
+        "orientacion_clinica": "NeuroPsicologia -Evaluacion neurocognitiva",
+        "domicilio": "Adultos- 3° Edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "374",
+        "nombre": "FONSECA FLORENCIA BELEN-",
+        "domicilio_laboral": "9 de Julio 1027- 1° Piso Dpto A",
+        "telefono": "383-4200725",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "375",
+        "nombre": "LOPEZ ENZO JAVIER-",
+        "domicilio_laboral": "Ayacucho 683",
+        "telefono": "383-4420958/383-4026533",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes - Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "376",
+        "nombre": "TULA MELISA ANAHI",
+        "domicilio_laboral": "Prado 760/ ICI Instituto Cardiológico",
+        "telefono": "381-6298530",
+        "orientacion_clinica": "Psicoterapia Breve",
+        "domicilio": "Adolescentes -Adultos- 3° edad /Individual-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "377",
+        "nombre": "FLORES OVIEDO ANDREA MARISEL",
+        "domicilio_laboral": "Felipe Varela 132-Recreo",
+        "telefono": "380-4200802",
+        "orientacion_clinica": "",
+        "domicilio": "Niños- adolescentes- adultos- 3 edad / Individual-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "378",
+        "nombre": "ALVAREZ MORALES CECILIA",
+        "domicilio_laboral": "Maipu 934",
+        "telefono": "383-4064246",
+        "orientacion_clinica": "",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "379",
+        "nombre": "BIANCHI YESSICA DAIANA",
+        "domicilio_laboral": "Av.Calchalqui 302-Belen",
+        "telefono": "383-4195954",
+        "orientacion_clinica": "Conductual contextual",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad / Individual-Pareja-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "380",
+        "nombre": "BORDON ANA DANIELA",
+        "domicilio_laboral": "Presidente Peron 45-Tinogasta",
+        "telefono": "3837-473690",
+        "orientacion_clinica": "Cognitivo Integrativa",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "381",
+        "nombre": "VERA CORDOBA JUAN GABRIEL",
+        "domicilio_laboral": "25 de Mayo 706",
+        "telefono": "383-4707404/381-4388845",
+        "orientacion_clinica": "Gestalt",
+        "domicilio": "Adolescentes-Adultos / Individual-Pareja-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "383",
+        "nombre": "PEREZ MAGALI",
+        "domicilio_laboral": "Hipólito Irigoyen s/n- Andalgalá",
+        "telefono": "351-2409349/3835-513158",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos/ Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "384",
+        "nombre": "SORIA MARIA ALEJANDRA",
+        "domicilio_laboral": "ATENCION ON-LINE / SER Salta 317",
+        "telefono": "383-4936292",
+        "orientacion_clinica": "Psicoterapia",
+        "domicilio": "Niños-Adolescentes-Adultos/ Individual-Discapacidad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "386",
+        "nombre": "SUAREZ ANDREA NAHIR",
+        "domicilio_laboral": "Junin 296 PB \"B\"  / Padre Esquiu 933 San Isidro",
+        "telefono": "3525-554542",
+        "orientacion_clinica": "Sistémica",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Pareja-Familia-Discapacidad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "387",
+        "nombre": "SORIA JESICA CARINA",
+        "domicilio_laboral": "Gral Navarro 142 \"CURARTE\" / SALUGENICA",
+        "telefono": "383-4004251",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad / Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "389",
+        "nombre": "MANSILLA CARLO A.",
+        "domicilio_laboral": "Ayacucho 683",
+        "telefono": "3865-319516",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Pareja-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "391",
+        "nombre": "CARRIZO MANZONI LAURA GRISELDA",
+        "domicilio_laboral": "Estanislao Maldones 22",
+        "telefono": "351-6230482",
+        "orientacion_clinica": "Sistemica-Psicoanalisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad / Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "392",
+        "nombre": "ALVAREZ LEILA SOLEDAD",
+        "domicilio_laboral": "Pje Lafone Quevedo s/n entre Hipolito Yrigoyen y Rivadavia",
+        "telefono": "3835-405477/3835-411957",
+        "orientacion_clinica": "Psicoterapia Breve-Psicoanálisis",
+        "domicilio": "Niños- Adolescentes- Adultos- 3 Edad/ Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "393",
+        "nombre": "OLMOS ROMINA SORAYA",
+        "domicilio_laboral": "San Martín 1076",
+        "telefono": "351-8052426",
+        "orientacion_clinica": "",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "394",
+        "nombre": "CELESTE CEBALLOS",
+        "domicilio_laboral": "Chile 1985-B° Parque America",
+        "telefono": "383-4982498",
+        "orientacion_clinica": "EMDR",
+        "domicilio": "Niños-Adultos / Individual-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "395",
+        "nombre": "MIRANDA ANA L.",
+        "domicilio_laboral": "Prado 79",
+        "telefono": "383-4059839",
+        "orientacion_clinica": "Psicoterapia Congnitiva-Conductual; neuropsicología orientación vocacional y laboral",
+        "domicilio": "Adolescentes-Adultos -3° Edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "396",
+        "nombre": "NIEVA NADIA E.",
+        "domicilio_laboral": "Felipe Varela 132-Recreo",
+        "telefono": "3832-407938",
+        "orientacion_clinica": "Psicoterapia-cognitiva conductual",
+        "domicilio": "Niños-Adoles.-Adultos-3ª Edad /Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "398",
+        "nombre": "QUEVEDO DAIANA",
+        "domicilio_laboral": "Almagro 723",
+        "telefono": "383-4373734",
+        "orientacion_clinica": "Psicoanalisis-Neuropsicologia",
+        "domicilio": "Adolescentes-Adultos-3ª Edad / Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "399",
+        "nombre": "DIAZ GISELLE MARIANA",
+        "domicilio_laboral": "San Martin 95",
+        "telefono": "351-2712444",
+        "orientacion_clinica": "Cognitivo/Gestalt",
+        "domicilio": "Niños- Adolescentes-Adultos-3 edad",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "400",
+        "nombre": "FLORES CARLA MELISA",
+        "domicilio_laboral": "Junin 296",
+        "telefono": "383-4603830",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "401",
+        "nombre": "DIAZ BOLLADA FLORENCIA",
+        "domicilio_laboral": "Vicario Segura 1615 / Instituto Preventor",
+        "telefono": "351-2644858",
+        "orientacion_clinica": "Cognitivo- conductual/ contextual",
+        "domicilio": "Adolescentes - Adultos / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "402",
+        "nombre": "ENCINA DIAZ BRENDA",
+        "domicilio_laboral": "Esquiu 887",
+        "telefono": "383-4598391",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos- 3 Edad / Individual-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "404",
+        "nombre": "MARTINEZ ANA VANESSA",
+        "domicilio_laboral": "Zurita 250 \"A\"",
+        "telefono": "383-4027292",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes- Adultos / Individual-Pareja-LGTBIQ+Violencia de Genero",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "405",
+        "nombre": "NIEVA CLAUDIA GISELLE",
+        "domicilio_laboral": "Junín 264",
+        "telefono": "383-4842174",
+        "orientacion_clinica": "cognitivo conductual",
+        "domicilio": "Niños-Adolescentes-Adultos-3° Edad / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "406",
+        "nombre": "LAGORIA PATRICIA DEL VALLE",
+        "domicilio_laboral": "Av 9 de Julio N° 60 PA Sanatorio Santa Rita-Santa Maria",
+        "telefono": "381-5797192",
+        "orientacion_clinica": "Psicoanalitica",
+        "domicilio": "Niños-Adolescentes-Adultos-3 Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "407",
+        "nombre": "MITARITONNA SANTI MA. CANDELA",
+        "domicilio_laboral": "Sanatorio Pasteur",
+        "telefono": "381-5944165",
+        "orientacion_clinica": "",
+        "domicilio": "Niños- Adolescentes - Adultos - 3ª Edad/ Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "410",
+        "nombre": "SILVA MARIA VIRGINIA",
+        "domicilio_laboral": "Prado 760",
+        "telefono": "383-4244860",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes- Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "411",
+        "nombre": "SANCHEZ MOTRAN YAMILE",
+        "domicilio_laboral": "Ayacucho 986 /Hospital Pomán",
+        "telefono": "3835-435609",
+        "orientacion_clinica": "Gestalt",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad / Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "412",
+        "nombre": "FALCA ANA F.",
+        "domicilio_laboral": "Caseros 477",
+        "telefono": "3546-543859",
+        "orientacion_clinica": "Psicoterapia sistematica y corporal",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "413",
+        "nombre": "LEGUIZAMON MARIA ROCIO",
+        "domicilio_laboral": "Clinica Virgen del Valle-Tinogasta",
+        "telefono": "383-4387878",
+        "orientacion_clinica": "Psicoanalisis - Psicodiagnostico Comunitaria",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "414",
+        "nombre": "RIVAS RUZO MARIA J.",
+        "domicilio_laboral": "Salta 317",
+        "telefono": "383-4191942",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad-Discapacidad / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "415",
+        "nombre": "VIDAL VICTORIA",
+        "domicilio_laboral": "Esquiu 676- Santa Maria",
+        "telefono": "3892-492009",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad / Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "416",
+        "nombre": "OCHOA RITA P.",
+        "domicilio_laboral": "Arturo Gimenez 371 \"B\" - Santa Maria",
+        "telefono": "381-5998528",
+        "orientacion_clinica": "Psicoanálisis/Logoterapia/Psicodiagnóstico Clínico",
+        "domicilio": "Niños-Adolescentes -Adultos-3ª Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "417",
+        "nombre": "OGAS MONICA NATALIA",
+        "domicilio_laboral": "Mayor Marcelo Lotufo 29 - Las Piquitas - FME",
+        "telefono": "383-4716300",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Adultos- 3° Edad / Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "418",
+        "nombre": "ALBARRACIN JUAN M.",
+        "domicilio_laboral": "B°Jardin-casa 11-calle 12 de Octubre-Tinogasta",
+        "telefono": "3837-432380",
+        "orientacion_clinica": "",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad / Individual-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "419",
+        "nombre": "VALDEZ MARIA LILIANA",
+        "domicilio_laboral": "Hospital Seccional Aconquija RP N°48-El Lindero-Aconquija-Andalgala",
+        "telefono": "383-4598426",
+        "orientacion_clinica": "Psicologia Clinica-Orientacion Cognitiva",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "420",
+        "nombre": "CARRIZO MARIANO NICOLAS",
+        "domicilio_laboral": "Caseros 24 / Federico Espeche 1980 JANUS",
+        "telefono": "383-4605436",
+        "orientacion_clinica": "Terapias Conductuales Contextuales",
+        "domicilio": "Adolescentes- Adultos / Individual-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "421",
+        "nombre": "ROMERO PLAZA MARIEL",
+        "domicilio_laboral": "Caseros 654",
+        "telefono": "381-6652222",
+        "orientacion_clinica": "Gestalt",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "422",
+        "nombre": "VERA CORDOBA",
+        "domicilio_laboral": "Sargento Cabral N°8 Barrio La Chacarita",
+        "telefono": "381-4388832",
+        "orientacion_clinica": "Gestalt",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "423",
+        "nombre": "MIRANDA MARIA DE LAS N",
+        "domicilio_laboral": "Gral Navarro Correa 810",
+        "telefono": "383-4367871",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "424",
+        "nombre": "DE LA BARRERA MARIA ISABEL",
+        "domicilio_laboral": "Chacabuco 850 P.B Oficina 3",
+        "telefono": "383-4213906",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes-Adultos- 3 edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "425",
+        "nombre": "SAADI SUSANA ANGELICA",
+        "domicilio_laboral": "Av. Calchalqui 498 - Belen",
+        "telefono": "383-4781358",
+        "orientacion_clinica": "Gestalt",
+        "domicilio": "Adolescentes-Adultos-3°edad /Individual-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "427",
+        "nombre": "MOYANO AGUSTINA G",
+        "domicilio_laboral": "Dr. Francisco Aguero 1486",
+        "telefono": "383-4924124",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Adolescentes- Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "428",
+        "nombre": "ZAFE MARIA LUCIANA",
+        "domicilio_laboral": "Almagro 723 / Dr. Francisco Figueroa 1486",
+        "telefono": "383-4797046",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Niños- Adolescentes- Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "429",
+        "nombre": "NIETO BRENDA",
+        "domicilio_laboral": "Av. 2 de Abril y Rivadavia / Poder Judicial - Andalgala",
+        "telefono": "3835-496047",
+        "orientacion_clinica": "Orientación Humanística,Terapias Contextuales de 3° generación, Clínica",
+        "domicilio": "Adolescentes - Adultos / Individual - Familia - Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "430",
+        "nombre": "HERNANDEZ MANCILLA B",
+        "domicilio_laboral": "Rojas 694",
+        "telefono": "383-4696699",
+        "orientacion_clinica": "Clinica Psicoanalisis",
+        "domicilio": "Adolescentes- Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "431",
+        "nombre": "CANO LOPEZ ANA SOLEDAD",
+        "domicilio_laboral": "Salta 342",
+        "telefono": "383-4318533",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "432",
+        "nombre": "BERRONDO BARBERIS M. FLORENCIA",
+        "domicilio_laboral": "Junin 296 PB",
+        "telefono": "383-4920369",
+        "orientacion_clinica": "Terapias Conductual y Contextual",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual -Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "433",
+        "nombre": "MALDONADO PACHECO EVELIN A.",
+        "domicilio_laboral": "Consultorio San Roque calle Fray Mamerto Esquiu s/n - Recreo",
+        "telefono": "3832-402593",
+        "orientacion_clinica": "Psicoanálisis-Terapia de Familia y Pareja-Psicología Positiva",
+        "domicilio": "Niños-Adolescentes-Adultos-3 edad/ Indivdual- Pareja- Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "434",
+        "nombre": "REINOSO KAREN ANTONELLA",
+        "domicilio_laboral": "F.M.Esquiu 676 local 4 - Santa Maria",
+        "telefono": "381-6440245 381-8472624",
+        "orientacion_clinica": "Clinica Psicoanálitica",
+        "domicilio": "Adolescentes- Adultos-3EDAD / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "435",
+        "nombre": "CORONEL SAMANTA NAHIR",
+        "domicilio_laboral": "Crisanto Gómez 36 / Salugénica",
+        "telefono": "383-4886843",
+        "orientacion_clinica": "Psicología Analítica Junguiana",
+        "domicilio": "Niños -Adolescentes- Adultos / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "437",
+        "nombre": "AVILA ENZO FABRICIO",
+        "domicilio_laboral": "Caseros 1161 PB 2",
+        "telefono": "383-4062883",
+        "orientacion_clinica": "Psicoterapia Integrativa con base Cognitiva Conductual",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "438",
+        "nombre": "ZAYA MA. CANDELARIA",
+        "domicilio_laboral": "Ruta 41 s/n- Piedra Blanca",
+        "telefono": "383-4254030",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3 Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "439",
+        "nombre": "VARELA DAIANA PAOLA",
+        "domicilio_laboral": "Salta 787",
+        "telefono": "383-4279206",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3 edad",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "440",
+        "nombre": "GOZALVEZ QUINTERO DANA SA",
+        "domicilio_laboral": "Zurita 548",
+        "telefono": "383-4560517",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos-3EDAD / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "441",
+        "nombre": "MORCOS RAIDEN SOFIA C",
+        "domicilio_laboral": "Pasaje Filippin 461",
+        "telefono": "351-6060113",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Niños- Adolescentes- Adultos- 3EDAD",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "442",
+        "nombre": "BARROS MA. LAURA",
+        "domicilio_laboral": "Av. Belgrano esquina Legisladores",
+        "telefono": "383-4910771",
+        "orientacion_clinica": "Psicoanalisis-Psicodiagnostico-Laboral",
+        "domicilio": "Adolescentes - Adultos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "443",
+        "nombre": "NIEVA PRIOTTI ANA BELEN",
+        "domicilio_laboral": "B° 200 V.V Casa 191 - Tinogasta",
+        "telefono": "351-7343144",
+        "orientacion_clinica": "Psicoterapia Integrativa",
+        "domicilio": "Niños-Adolescentes-Adultos-3EDAD / Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "444",
+        "nombre": "CEDRON TALIA NORALI",
+        "domicilio_laboral": "Rivadavia 490 - Belen",
+        "telefono": "3865-588969",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "445",
+        "nombre": "VILLAFAÑEZ MARIANA ROXANA",
+        "domicilio_laboral": "Guemes 630 LAZOS / Zurita 437 SENTIDOS",
+        "telefono": "383-4579653",
+        "orientacion_clinica": "Cognitiva Conductual y vincular",
+        "domicilio": "Niños-Adolescentes-Adultos-3EDAD / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "446",
+        "nombre": "ORTIZ ROSA ELENA VANESA",
+        "domicilio_laboral": "San Martin 1016",
+        "telefono": "11-66499129",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "447",
+        "nombre": "LE BIHAN MARIA CANDELA",
+        "domicilio_laboral": "Buenos Aires 847",
+        "telefono": "351-3986103",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3 edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "448",
+        "nombre": "LUNA ANA CAROLINA",
+        "domicilio_laboral": "AV. Almonacid 1357 Esquina Di Martino",
+        "telefono": "351-2295725",
+        "orientacion_clinica": "NeuroPsicología -Psico-Contextual",
+        "domicilio": "Adultos-3EDAD / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "449",
+        "nombre": "VEGA FLAVIA ANDREA",
+        "domicilio_laboral": "Av. Calchalquí 498 - Belén",
+        "telefono": "3835-696996",
+        "orientacion_clinica": "Clínica",
+        "domicilio": "Niños-Adolescentes-Adultos-3ª Edad / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "450",
+        "nombre": "MOLINA ANA LILIA",
+        "domicilio_laboral": "Almagro 667",
+        "telefono": "351-3494005",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Adultos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "453",
+        "nombre": "CARBALLIDO JOSE MATIAS",
+        "domicilio_laboral": "José Terán y Pedro Goyena",
+        "telefono": "383-4974246",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "454",
+        "nombre": "ZAVALETA VALENTINA",
+        "domicilio_laboral": "Junin 369",
+        "telefono": "383-4465310",
+        "orientacion_clinica": "cognitivo conductual",
+        "domicilio": "Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "456",
+        "nombre": "MORENO ALDANA KARIN ROSA",
+        "domicilio_laboral": "San Martín 380 - SANTA MARÍA",
+        "telefono": "3838-600911",
+        "orientacion_clinica": "Psicoanálisis Cognitivo Conductual",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "457",
+        "nombre": "LOPEZ LUNA LUCAS FERNANDO",
+        "domicilio_laboral": "Padre Esquiu 933-San Isidro",
+        "telefono": "351-2313283",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "458",
+        "nombre": "LESTUSSI AGOSTINA",
+        "domicilio_laboral": "Mate de Luna 842",
+        "telefono": "383-4644516",
+        "orientacion_clinica": "Terapia Sistemica",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "459",
+        "nombre": "CALVIMONTE MARIA MARTHA",
+        "domicilio_laboral": "Caseros 24 / Padre Esquiú 933 CIAT-San Isidro",
+        "telefono": "383-4563401/381-5229555",
+        "orientacion_clinica": "Psicoterapia Sistémica, Breve, Orientadora en reproducción Humana asistida",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual-Pareja-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "461",
+        "nombre": "BRUCCIERI GIANFRANCO",
+        "domicilio_laboral": "Republica 80",
+        "telefono": "383-4651883",
+        "orientacion_clinica": "Psicología Analítica Junguiana",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "462",
+        "nombre": "MORENO LUNA LEIZA",
+        "domicilio_laboral": "Rojas 165 / ILLARY",
+        "telefono": "3804-323056",
+        "orientacion_clinica": "Psicoanaisis/Psicodiagnóstico Clínico",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "463",
+        "nombre": "AGUERO MARIO",
+        "domicilio_laboral": "Bonifacio Cordoba 467",
+        "telefono": "383-4086876",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual-grupal",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "464",
+        "nombre": "MORALES PAULA MARIA",
+        "domicilio_laboral": "Almagro 723",
+        "telefono": "383-4591454",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "466",
+        "nombre": "FERREYRA LUCIANO MARTIN",
+        "domicilio_laboral": "Av. Ingamana 448 \"ILLARY\"",
+        "telefono": "383-4067697",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "467",
+        "nombre": "BRIZUELA DEL MORAL FACUNDO D",
+        "domicilio_laboral": "Dr. Federico Espeche 1980 JANUS / Chacabuco 66",
+        "telefono": "383-4596859",
+        "orientacion_clinica": "Psicoterapia",
+        "domicilio": "Adolescentes - Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "468",
+        "nombre": "FIGUEROA SOLEDAD NOELIA",
+        "domicilio_laboral": "Sarmiento 655 - BELEN",
+        "telefono": "381-4195221",
+        "orientacion_clinica": "Psicología con enfoque integral",
+        "domicilio": "Niños-Adolescentes-Adultos-3 Edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "471",
+        "nombre": "FERRO AGUSTINA",
+        "domicilio_laboral": "Tucuman 996 1° piso",
+        "telefono": "3582-435037",
+        "orientacion_clinica": "Integrativo",
+        "domicilio": "Niños-Adolescentes-Adultos-3° edad / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "473",
+        "nombre": "QUINTANA ALDANA NOELI",
+        "domicilio_laboral": "Ayacucho 1281 \"CREAR\"",
+        "telefono": "383-4073414",
+        "orientacion_clinica": "Cognitivo Conductual",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "474",
+        "nombre": "ROJAS MARIANA ANTONELLA",
+        "domicilio_laboral": "Av. Ocampo 942",
+        "telefono": "383-4337091",
+        "orientacion_clinica": "Cognitivo-Conductual",
+        "domicilio": "Adolescentes-Adultos-3edad / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "477",
+        "nombre": "GARRIGA MORCOS MARIA PAULA",
+        "domicilio_laboral": "Junín 1152",
+        "telefono": "383-4500840",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños - Adolescentes / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "478",
+        "nombre": "MONTALVÁN NATALÍ STEFANÍA",
+        "domicilio_laboral": "Martín Miguel de Güemes s/n casa 26 - Los Altos",
+        "telefono": "381-3367040",
+        "orientacion_clinica": "Humanista",
+        "domicilio": "Niños -Adolescentes- Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "479",
+        "nombre": "ISSI CARRIZO LEONEL",
+        "domicilio_laboral": "Rojas 157",
+        "telefono": "383-4682014",
+        "orientacion_clinica": "Psicoanálisis Lacaniano",
+        "domicilio": "Adolescentes - Adultos - 3° edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "480",
+        "nombre": "AMANTE PAMELA VIRGINIA",
+        "domicilio_laboral": "Av. Ocampo 942 \"CREAR\"",
+        "telefono": "11-30675961",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Adolescentes - Adultos / Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "481",
+        "nombre": "TIDELE ANDRÉS",
+        "domicilio_laboral": "Quintana 385 - Santa María",
+        "telefono": "381-6701444",
+        "orientacion_clinica": "Psicología Clínica-Psicologia del Deporte",
+        "domicilio": "Adolescentes - Adultos - 3° edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "482",
+        "nombre": "NOGUERA FLORENCIA",
+        "domicilio_laboral": "Maipu 873",
+        "telefono": "381-5575918",
+        "orientacion_clinica": "Psicoanalisis-Evaluacion del desarrollo neuropsicologico-Virtual/presencial",
+        "domicilio": "Niños-Adolescente-Adultos / Individual-Pareja-Familia-Grupos",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "483",
+        "nombre": "ALLOSA CECILIA ELIZABETH DEL VALLE",
+        "domicilio_laboral": "Centro Dra Ojeda Av Presidente Castillo 1942 - Valle Viejo",
+        "telefono": "383-4202244",
+        "orientacion_clinica": "",
+        "domicilio": "Niños-Adolescentes-Adultos-3edad / Individual-Familia",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "486",
+        "nombre": "SOLER ROCÍO FERNANDA",
+        "domicilio_laboral": "Clínica Virgen del Valle Pte. Perón 395 - Tinogasta",
+        "telefono": "351-4087547",
+        "orientacion_clinica": "Psicoanálisis",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "487",
+        "nombre": "AYBAR CURA PAULA MARIEL",
+        "domicilio_laboral": "Sanatorio Calchaqui - Belen",
+        "telefono": "3835-416598",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3°edad /Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "490",
+        "nombre": "BIZE ANA PAULA",
+        "domicilio_laboral": "Salta 385 Local 1",
+        "telefono": "383-4758424",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "491",
+        "nombre": "ANDREATTA JULIAN",
+        "domicilio_laboral": "Juarez de Babiano 91 B°250 VV",
+        "telefono": "383-4547720",
+        "orientacion_clinica": "DBT Terapia Dialectica Conductual",
+        "domicilio": "Niños - Adolescentes - Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "492",
+        "nombre": "CARRIZO JONATHAN EMANUEL",
+        "domicilio_laboral": "Av. Ingamana 448 \"ILLARY\"",
+        "telefono": "383-4274633",
+        "orientacion_clinica": "",
+        "domicilio": "Niños - Adolescentes - Adultos - 3° edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "493",
+        "nombre": "PAULA RESSIA",
+        "domicilio_laboral": "Juarez de Babiano 189",
+        "telefono": "3584-326414",
+        "orientacion_clinica": "Terapias Contextuales",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "495",
+        "nombre": "NAZAR MAIRA NAHIR",
+        "domicilio_laboral": "Rojas 694",
+        "telefono": "383-4524281",
+        "orientacion_clinica": "Gestalt",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "496",
+        "nombre": "CEBALLOS CARRANZA ANA LUCIA",
+        "domicilio_laboral": "Av. Ocampo 942 \"CREAR\"",
+        "telefono": "383-4986061",
+        "orientacion_clinica": "Clínica Psicoanálisis",
+        "domicilio": "Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "497",
+        "nombre": "ZELARAYAN ABRAHAM TOMAS",
+        "domicilio_laboral": "Pedro Ignacio Acuña 156",
+        "telefono": "351-211033",
+        "orientacion_clinica": "Guestaltica",
+        "domicilio": "Adolescentes-Adultos-3edad / Individual-Familia",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "498",
+        "nombre": "HERRERA MALDONADO FRANCISCO JAVIER",
+        "domicilio_laboral": "San Martin 272 - BELEN",
+        "telefono": "351-8564449",
+        "orientacion_clinica": "Psicoanalisis Junguiano",
+        "domicilio": "Adolescentes-Adultos-3edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "501",
+        "nombre": "PAPATERRA  FERNANDEZ FERNANDA",
+        "domicilio_laboral": "Almagro 723",
+        "telefono": "351-2529047/383-4787880",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos-3EDAD / Individual-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "502",
+        "nombre": "CASTRO AGUSTINA MARIA",
+        "domicilio_laboral": "Prado 666 2do 16",
+        "telefono": "383-4827121",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Adolescentes-Adultos-3° edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "503",
+        "nombre": "PERALTA CAMILA ANABEL",
+        "domicilio_laboral": "Buenos Aires 847",
+        "telefono": "383-4684892",
+        "orientacion_clinica": "Terapia Sistemica",
+        "domicilio": "Adolescentes-Adultos / Individual-Familia-Pareja",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "504",
+        "nombre": "OVEJERO COLLA ELIANA DEL VALLE",
+        "domicilio_laboral": "Conessa 151",
+        "telefono": "383-4427485",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños-Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "505",
+        "nombre": "MARTINEZ CLARA INES",
+        "domicilio_laboral": "Av Guemes 630",
+        "telefono": "383-4643861",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Niños -Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "506",
+        "nombre": "DIAZ DIEGO MANUEL",
+        "domicilio_laboral": "Mate de Luna 135",
+        "telefono": "11-33361567",
+        "orientacion_clinica": "Humanista-Psicodrama-Psicoeducacion-Enfoque de Genero",
+        "domicilio": "Adolescentes-Adultos / Individual-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "508",
+        "nombre": "PORCEL DE PERALTA CAMARA CAMILA",
+        "domicilio_laboral": "Margarita Colom 446",
+        "telefono": "383-4550519",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes-Adultos-3° edad / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "509",
+        "nombre": "NIEVA MARTIN MA. MORAIMA",
+        "domicilio_laboral": "Buenos Aires 847",
+        "telefono": "383-4906331",
+        "orientacion_clinica": "Neurociencias",
+        "domicilio": "Adolescentes-Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "510",
+        "nombre": "SALARIS VALENTINA LUCIA",
+        "domicilio_laboral": "Rojas 694",
+        "telefono": "341-6572050",
+        "orientacion_clinica": "Psicoterapia Gestaltica",
+        "domicilio": "Adolescentes-Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "511",
+        "nombre": "AGUIRRE ELIANA VANESSA",
+        "domicilio_laboral": "Vicario Segura 511",
+        "telefono": "383-4170336",
+        "orientacion_clinica": "Psicoanalisis",
+        "domicilio": "Adultos / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "515",
+        "nombre": "AYOSA LAURA VERONICA",
+        "domicilio_laboral": "Belgrano 547 CIPERCA SRL",
+        "telefono": "383-4432271",
+        "orientacion_clinica": "Cognitiva Conductual - Psicoanalisis",
+        "domicilio": "Niños-Adolescentes-Adultos-3EDAD / Individual",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "516",
+        "nombre": "MURO MARCOS NICOLAS",
+        "domicilio_laboral": "Av. Valle Viejo 97",
+        "telefono": "383-4369271",
+        "orientacion_clinica": "Conductismo Contextual Funcional",
+        "domicilio": "Adolescentes-Adultos-3EDAD / Individual-Pareja-Familia-Grupos",
+        "obra_social": "NO"
+    },
+    {
+        "M.P": "517",
+        "nombre": "PALAVECINO FACUNDO",
+        "domicilio_laboral": "Junin 264",
+        "telefono": "383-4842174",
+        "orientacion_clinica": "Cognitiva Conductual",
+        "domicilio": "Niños -Adolescentes- Adultos / Individual",
+        "obra_social": "SI"
+    },
+    {
+        "M.P": "518",
+        "nombre": "CORZO FACUNDO DARIO",
+        "domicilio_laboral": "Rojas 694",
+        "telefono": "383-4033347",
+        "orientacion_clinica": "",
+        "domicilio": "Adolescentes-Adultos / Individual-Grupos",
+        "obra_social": "NO"
+    }
+]
